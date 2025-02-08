@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python project fetches live cricket match data using the Unofficial Cricbuzz API and logs API call timestamps into an SQLite database. The data includes live scores, batsmen statistics, bowler performance, and match status. The script runs periodically using the schedule library.
+This Python project fetches live cricket match data using the Unofficial Cricbuzz API and logs API call timestamps into an SQLite database. The data includes live scores, batsmen statistics, bowler performance, and match status. The script runs periodically using the schedule library. And displays scores on your screen so that you can enjoy the score of game w/o disturbing your work
 
 ## Features
 
@@ -11,6 +11,9 @@ Fetches live match data (score, wickets, overs, batsmen, and bowler stats).
 Logs API call timestamps in an SQLite database.
 
 Runs every minute to fetch updated match data.
+
+Displays notification about score
+
 
 ## Prerequisites
 
