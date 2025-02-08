@@ -22,7 +22,7 @@ pip install requests schedule sqlite3
 
 Clone this repository:
 
-git clone https://github.com/your-repo/cricket-score-tracker.git
+git clone https://github.com/Score_teller/cricket-score-tracker.git
 
 Navigate to the project folder:
 
